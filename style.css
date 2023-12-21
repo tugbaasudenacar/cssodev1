@@ -2,18 +2,21 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     padding: 20px;
-    background-color:aquamarine;
+    background-color:#FFE5E5;
 }
 
 header {
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: #756AB6;
     color: #fff;
+    h1 {
+        font-size:60px; 
+    }
 }
 
 nav ul {
-    list-style: none;
+    list-style: circle;
     padding: 0;
     text-align: center;
 }
@@ -26,5 +29,4 @@ nav ul li {
 main {
     margin-top: 20px;
 }
-
 
